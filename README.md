@@ -1,0 +1,1 @@
+# php-v05-mail-ajax-external-file
